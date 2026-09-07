@@ -1,0 +1,23 @@
+# ---------- Python ----------
+venv/
+__pycache__/
+*.py[cod]
+*.log
+
+# ---------- PyInstaller 构建产物（按需重新打包） ----------
+build/
+*.spec
+
+# ---------- 大文件：模型与打包后的 exe（请单独下载/分发） ----------
+models/u2net_human_seg.onnx
+dist/
+
+# ---------- 系统 / 编辑器 ----------
+.DS_Store
+Thumbs.db
+*.tmp
+.idea/
+.vscode/
+
+# 内部测试脚本
+_e2e_test.py
