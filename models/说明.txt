@@ -1,0 +1,6 @@
+✅ 模型已下载好放在本目录，程序直接离线使用，无需联网。
+
+如需重新下载（比如更换为更精细的模型），原地址：
+https://github.com/danielgatis/rembg/releases/download/v0.0.0/u2net_human_seg.onnx
+
+当前文件：
